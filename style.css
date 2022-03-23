@@ -13,7 +13,7 @@
 body
 {
     min-height: 100vh;
-    /*background: linear-gradient(#000000, #DC143C);*/
+    background: linear-gradient(#000000, #DC143C);
     overflow-x: hidden;
     overflow-y: auto;
 }
