@@ -13,7 +13,7 @@
 body
 {
     min-height: 100vh;
-    background: linear-gradient(#000000, #DC143C);
+    background: linear-gradient(#ff7f7f, #F8C8DC);
     overflow-x: hidden;
     overflow-y: auto;
 }
@@ -103,7 +103,8 @@ section img {
 {
     position: relative;
     padding: 100px;
-    background: darkred;
+    /* do none background for transparent effect */ 
+    background: #ff7f7f;
     
 }
 .sec h2
